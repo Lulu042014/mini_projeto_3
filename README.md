@@ -1,7 +1,7 @@
 # 🤖 Mini-Projeto 3 — Comparação de Metaheurísticas
 
 **Computação Evolutiva 2026.1 · UFC Itapajé — Campus Jardins de Anita**  
-**Autoras:** Luíza Nogueira & [Nome da colega]
+**Autoras:** Luíza Nogueira & Ana Julia Freitas
 
 ---
 
